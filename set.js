@@ -11,7 +11,7 @@ global.footer = "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ*"; // In
 global.myDb = "https://giftedmd.giftedtech.web.id"; // DO NOT Change this...
 global.ytdl = "https://youtube.giftedtech.web.id"; // You Can Change this...
 global.giftedCdn = "https://storage.giftedtech.web.id";
-global.giftedRepo = "https://github.com/mauricegift/gifted-md";
+global.giftedRepo = "https://github.com/mauricegift/eliakim-md";
 global.giftedApiRepo = "https://api.github.com/repos/mauricegift/gifted-md";
 
 module.exports = {
