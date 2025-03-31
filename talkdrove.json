@@ -1,8 +1,8 @@
 {
-  "bot-name": "gifted-md",
+  "bot-name": "eliakim-md",
   "description": "I am Gifted-Md, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
   "logo": "https://files.catbox.moe/52699c.jpg",
-  "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
+  "keywords": ["eliakim-md", "eliakimtech", "Eliakim-Md"],
   "documentation-link": "https://pairing.giftedtech.web.id",
   "owner-verification":"jemmimaonyango@gmail.com",
   "env": {
@@ -19,7 +19,7 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Gifted Tech"
+      "value": "Eliakim Tech"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 2547xxxxx",
@@ -64,7 +64,7 @@
     "STATUS_REPLY_MSG": {
       "description": "Set your status reply message to be sent after bot views status",
       "required": false,
-      "value": "Status Viewed ✅️"
+      "value": "Status Viewed by eliakim md✅️"
     },
     "AUTO_READ_MESSAGES": {
       "description": "Enter value to 'true' for blueticking all messages, or 'commands' for blueticking only commands else false. You can set up this later using .autoread",
@@ -129,12 +129,12 @@
     "ANTICALL_MSG": {
       "description": "Put Your own Anticall Message the bot will send after rejecting calls",
       "required": false,
-      "value": "*_📞 Auto Call Reject Mode Activated by Gifted-Md. 📵 No Calls Allowed!_*"
+      "value": "*_📞 Auto Call Reject Mode Activated by Eliakim-Md. 📵 No Calls Allowed!_*"
     },
     "BOT_NAME": {
       "description": "You can edit this but maintain font style for uniformity. Use 'Fonts Type Keyboard' for styles.",
       "required": false,
-      "value": "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃"
+      "value": "𝗘𝗟𝗜𝗔𝗞𝗜𝗠-𝐌𝐃"
     },
     "BOT_PIC": {
       "description": "You can edit this but it must be a valid image url(link).",
@@ -144,12 +144,12 @@
     "PACK_AUTHOR": {
       "description": "You can enter your sticker pack author",
       "required": false,
-      "value": "𝐆𝐈𝐅𝐓𝐄𝐃 𝐓𝐄𝐂𝐇"
+      "value": "𝗘𝗟𝗜𝗔𝗞𝗜𝗠 𝐓𝐄𝐂𝐇"
     },
     "PACK_NAME": {
       "description": "You can enter your sticker pack name.",
       "required": false,
-      "value": "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃💜"
+      "value": "𝗘𝗟𝗜𝗔𝗞𝗜𝗠-𝐌𝐃💜"
     },
     "PREFIX": {
       "description": "Your Bot Prefix (default: .) You can put your own custom prefix",
