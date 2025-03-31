@@ -37,7 +37,7 @@ BAD_WORDS: process.env.BAD_WORDS || "fuck, pussy, anus, idiot", // Add Yours Sep
 ANTICALL_MSG: process.env.ANTICALL_MSG || "*_📞 Auto Call Reject Mode Active. 📵 No Calls Allowed!_*",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 BOT_NAME: process.env.BOT_NAME || "𝗘𝗟𝗜𝗔𝗞𝗜𝗠-𝐌𝐃", // Input Yours custom...(Maintain font for Flow)
-BOT_PIC: process.env.BOT_PIC || "https://files.giftedtech.web.id/file/gifted-md.jpg", // You can Replace with yours...
+BOT_PIC: process.env.BOT_PIC || "https://i.postimg.cc/Gt6TwTKH/IMG-20250302-WA0000.jpg", // You can Replace with yours...
 AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
 AUTO_BIO: process.env.AUTO_BIO || "false",
 AUTO_BIO_QUOTE: process.env.AUTO_BIO_QUOTE || "Gifted creates things that creates other things",
